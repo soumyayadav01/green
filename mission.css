@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Baloo Bhai',cursive ;
+    background-color:rgb(157, 243, 118);
+}
+img {
+position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+  }
+  h2{
+    margin-left: 20px;
+    font-size: xx-large;
+    font-weight: bolder;
+  }
+  p{ 
+    margin-left: 20px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+  }
